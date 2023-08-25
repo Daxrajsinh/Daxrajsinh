@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxrajsinh&label=Profile%20views&color=0e75b6&style=flat" alt="daxrajsinh" /> </p>
 
-- 🌱 I’m currently learning **MERN Full stack web development**
+- 🌱 I’m currently learning **MERN Full stack web development and practicing DSA problems**
 
 - 📫 How to reach me **daxrajsinh16@gmail.com**
 
