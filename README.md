@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Daxrajsinh Jadeja</h1>
-<h3 align="center">I am a Computer Engineering student who is passionate about coding.</h3>
+<h3 align="center">I am a Computer Engineering student, passionate about coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxrajsinh&label=Profile%20views&color=0e75b6&style=flat" alt="daxrajsinh" /> </p>
 
