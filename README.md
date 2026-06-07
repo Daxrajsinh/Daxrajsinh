@@ -1,7 +1,5 @@
 <!-- =========================================================
      Daxrajsinh Jadeja — GitHub Profile README
-     Drop this file in a repo named  Daxrajsinh/Daxrajsinh
-     (repo name MUST exactly match your username) → README.md
      ========================================================= -->
 
 <a href="https://github.com/Daxrajsinh">
@@ -12,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+production-grade+Voice+AI+%26+RAG+systems;Architecting+agentic+AI+pipelines+on+AWS;STT+%E2%86%92+LLM+%E2%86%92+TTS+%2C+real-time%2C+at+scale;AWS+Certified+Solutions+Architect+%7C+Terraform+Associate)](https://github.com/Daxrajsinh)
 
-<a href="https://linkedin.com/in/daxrajsinhjadeja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/daxrajsinh-jadeja-431271234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:daxrajsinh16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Daxrajsinh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://pypi.org/user/Daxrajsinh/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
@@ -168,7 +166,7 @@ Natural language → executable **SQL & MongoDB** queries on **Amazon Bedrock** 
 
 I'm always open to collaborating on **AI/ML, Voice AI, RAG, and cloud-native systems**. Reach out!
 
-<a href="https://linkedin.com/in/daxrajsinhjadeja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daxrajsinh-jadeja-431271234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:daxrajsinh16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
