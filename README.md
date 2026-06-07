@@ -1,30 +1,176 @@
+<!-- =========================================================
+     Daxrajsinh Jadeja — GitHub Profile README
+     Drop this file in a repo named  Daxrajsinh/Daxrajsinh
+     (repo name MUST exactly match your username) → README.md
+     ========================================================= -->
+
+<a href="https://github.com/Daxrajsinh">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Daxrajsinh%20Jadeja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Cloud-Native%20AI%20Systems&descAlignY=58&descSize=18" alt="header"/>
+</a>
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+production-grade+Voice+AI+%26+RAG+systems;Architecting+agentic+AI+pipelines+on+AWS;STT+%E2%86%92+LLM+%E2%86%92+TTS+%2C+real-time%2C+at+scale;AWS+Certified+Solutions+Architect+%7C+Terraform+Associate)](https://github.com/Daxrajsinh)
+
+<a href="https://linkedin.com/in/daxrajsinhjadeja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:daxrajsinh16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Daxrajsinh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://pypi.org/user/Daxrajsinh/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Daxrajsinh&label=Profile%20views&color=22d3ee&style=flat" alt="profile views"/>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Daxrajsinh Jadeja</h1>
-<h3 align="center">I am a Computer Engineering student, passionate about coding.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daxrajsinh&label=Profile%20views&color=0e75b6&style=flat" alt="daxrajsinh" /> </p>
+## 🧠 About Me
 
-- 🌱 I’m currently learning **MERN stack in web development and practicing DSA problems**
+```python
+class Daxrajsinh:
+    def __init__(self):
+        self.role        = "AI/ML Engineer & Data Scientist"
+        self.company     = "HolboxAI @ IIM Ahmedabad"
+        self.location    = "Gujarat, India 🇮🇳"
+        self.focus       = ["Voice AI", "RAG", "Agentic AI", "Cloud-Native AI on AWS"]
+        self.pipelines   = "STT → LLM → TTS, real-time, low-latency"
+        self.shipped     = "End-to-end AI systems on AWS Marketplace"
+        self.currently   = "Scaling production Voice Agents across e-commerce & healthcare"
 
-- 📫 How to reach me **daxrajsinh16@gmail.com**
+    def say_hi(self):
+        return "Let's build something that actually ships 🚀"
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daxrajsinh jadeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxrajsinh jadeja" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/daxrajsinh_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="daxrajsinh_16" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/daxrajsinh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daxrajsinh16" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dax_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dax_16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daxrajsinh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daxrajsinh16" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/daxrajsinh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="daxrajsinh16" height="30" width="40" /></a>
-<a href="https://discord.gg/#4887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4887" height="30" width="40" /></a>
-</p>
+- 🔭 I architect and **own production-grade AI systems end-to-end** — Voice AI agents, RAG knowledge platforms, and OCR-driven enterprise tools serving real clients across e-commerce, healthcare & retail.
+- 🎙️ Creator of **[Vocalyx](https://pypi.org/user/Daxrajsinh/)** — a real-time Speech-to-Speech AI Voice Agent platform (STT–LLM–TTS), published on **PyPI** and deployed on **AWS Marketplace**.
+- 🤖 I build **multi-agent, agentic workflows** with Strands Agent & the Agno framework for multi-step reasoning, tool execution and human handoff.
+- ☁️ Everything provisioned as **Infrastructure as Code** with **Terraform** & **AWS CloudFormation**.
+- 🏆 Competitive programmer — **LeetCode Knight (Top 3.8%)**, **Codeforces Specialist**, **CodeChef Global Rank 39**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxrajsinh&show_icons=true&locale=en&layout=compact" alt="daxrajsinh" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daxrajsinh&show_icons=true&locale=en" alt="daxrajsinh" /></p>
+<div align="center">
+
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Vocalyx — AI Voice Agent Platform
+Production-grade, real-time **Speech-to-Speech** platform (STT–LLM–TTS) for fully automated enterprise conversations across telephony & web.
+- Agentic workflows via **Strands Agent + Agno**
+- Domain agents for e-commerce & healthcare
+- Twilio · Telnyx · Amazon Connect telephony
+- 📦 Published on **PyPI** · deployed on **AWS Marketplace**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Multi-Agent Orchestration Framework
+A multi-agent system on **Agno Teams** for enterprise workflows.
+- Agent-to-agent delegation + shared memory
+- Dynamic prompt chunking & context compression
+- Adaptive prompt routing to kill latency bottlenecks
+- Optimized token consumption at scale
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ TTS Engine Benchmarking
+Head-to-head eval of **Deepgram vs. Minimax TTS** (Amazon Polly as baseline).
+- Latency, streaming, naturalness, multilingual & cost
+- Python benchmarking pipelines + dashboards
+- Data-driven TTS engine selection for prod workloads
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 NL2SQL — Natural Language Analytics
+Natural language → executable **SQL & MongoDB** queries on **Amazon Bedrock** (Claude/Titan).
+- Schema-aware prompting, complex joins & aggregations
+- PostgreSQL + MongoDB, web-integrated analytics
+- Auto result viz (tables, bar & pie charts)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+## 🏆 Coding Profiles & Achievements
+
+<div align="center">
+
+| Platform | Rating / Rank | Highlight |
+|:--------:|:-------------:|:----------|
+| 🟧 **LeetCode** | Knight · Max **1936** | Top **3.8%** · solved **700+** problems |
+| 🔵 **Codeforces** | Specialist · Max **1435** | Reached in just **6 contests** |
+| 🟤 **CodeChef** | Global **#39** (July Long) | Global **#128** (Starters 109) |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![AWS SAA](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp_Certified-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+> 🎓 **B.Tech, Computer Engineering** — Dharmsinh Desai University (DDIT) · **CPI 9.15/10**· 2021–2025
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on **AI/ML, Voice AI, RAG, and cloud-native systems**. Reach out!
+
+<a href="https://linkedin.com/in/daxrajsinhjadeja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:daxrajsinh16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
